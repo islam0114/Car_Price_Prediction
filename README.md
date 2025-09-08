@@ -82,9 +82,9 @@ The dataset contains detailed information about cars with the following columns:
 
 4- Evaluation
 
-Metrics: RMSE, MAE, R²
+- Metrics: RMSE, MAE, R²
 
-Model comparison
+- Model comparison
 
 ----
 
