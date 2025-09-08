@@ -1,7 +1,5 @@
 # Car Price Prediction
 
-----
-
 ## 1. Project Overview
 This project aims to build a machine learning model to predict the price of cars based on their specifications.
 By analyzing features such as manufacturer, model year, engine volume, mileage, fuel type, and more, the model provides an estimated car price that can help buyers and sellers make informed decisions.
