@@ -1,12 +1,12 @@
 # Car Price Prediction
 
-## 1. Project Overview
+## Project Overview
 This project aims to build a machine learning model to predict the price of cars based on their specifications.
 By analyzing features such as manufacturer, model year, engine volume, mileage, fuel type, and more, the model provides an estimated car price that can help buyers and sellers make informed decisions.
 
 ----
 
-## 2. Dataset Description
+## Dataset Description
 Source: Kaggle
 
 The dataset contains detailed information about cars with the following columns:
@@ -52,7 +52,10 @@ The dataset contains detailed information about cars with the following columns:
 
 ----
 
-## 3. Project Workflow
+![Car Price Dashboard](Dashboard/Dashboard.png)
+----
+
+## Project Workflow
 
 1- Data Preprocessing
 
@@ -88,7 +91,7 @@ The dataset contains detailed information about cars with the following columns:
 
 ----
 
-## 4. Tools & Technologies
+## Tools & Technologies
 
 | Category         | Tools                         |
 | ---------------- | ----------------------------- |
@@ -99,7 +102,7 @@ The dataset contains detailed information about cars with the following columns:
 
 ----
 
-## 5. Project Structure
+## Project Structure
 Car_Price_Prediction/
 
 │
