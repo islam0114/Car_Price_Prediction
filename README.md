@@ -51,9 +51,11 @@ The dataset contains detailed information about cars with the following columns:
 
 
 ----
+
 ## Dashboard:
 
 ![Car Price Dashboard](Dashboard/Dashboard.png)
+
 ----
 
 ## Project Workflow
