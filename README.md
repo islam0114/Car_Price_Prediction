@@ -110,7 +110,7 @@ Car_Price_Prediction/
 
 │
 
-├── Code/                          # Final scripts and source code
+├── Code/                      # Final scripts and source code
 
 │
 
@@ -118,4 +118,8 @@ Car_Price_Prediction/
 
 │
 
-├── README.md                      # Project documentation and overview
+├── Dashboard/                 # interactive power bi dashboard
+
+│
+
+├── README.md                  # Project documentation and overview
